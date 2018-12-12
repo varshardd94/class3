@@ -1,0 +1,207 @@
+    1  git  //version
+    2  git --version
+    3  git status
+    4  git clone https://github.com/varshardd94/class1.git
+    5  ls
+    6  cd cl
+    7  cd class1/
+    8  ls
+    9  ls
+   10  git status
+   11  git add f.txt
+   12  git status
+   13  git
+   14  git add *
+   15  git status
+   16  git commit -m "firstcommit from local machine"
+   17  git config --global user.email "you@example.com"
+   18     git config --global user.email "varshardd94@gmail.com"
+   19   git config --global user.name "varsha"
+   20  git commit -m "firstcommit from local machine"
+   21  git status
+   22  git log
+   23  git push
+   24  git push origin master
+   25  git git pull origin master
+   26  git pull origin master
+   27  ls
+   28  history
+   29  history >> gitcommands.txt
+   30  ls
+   31  git --version
+   32  git status
+   33  git clone https://github.com/varshardd94/class1.git
+   34  cd/
+   35  cd//
+   36  cd gitpractise
+   37  git --help
+   38  git --version
+   39  cd desktop/
+   40  cd  
+   41  git --version
+   42  git status
+   43  git clone https://github.com/varshardd94/class1.git
+   44  ls
+   45  git --version
+   46  cd 
+   47  git --version
+   48  cd --desktop
+   49  cd dir
+   50  cd --dir
+   51  cd -@
+   52  cd [dir]
+   53  cd gitpractise1
+   54  cd gitpractise
+   55  ls
+   56  git init
+   57  cd ~/desktop
+   58  ls
+   59  cd ~/desktop/getpractise1
+   60  cd ~/desktop/gitpractise1
+   61  git --version
+   62  git status
+   63  ls
+   64  git clone https://github.com/varshardd94/class1.git
+   65  ls
+   66  cd c1
+   67  cd class1/
+   68  ls
+   69  git status
+   70  git add f.txt
+   71  git add *
+   72  git status
+   73  git commit -m "firstcommit from local machine"
+   74  git config --global user.email "you@example.com"
+   75     git config --global user.email "varshardd94@gmail.com"
+   76   git config --global user.name "varsha"
+   77  git commit -m "firstcommit from local machine"
+   78  git status
+   79  git log
+   80  git push
+   81  git push origin master
+   82  ls
+   83  history
+   84  history >> gitcommands.txt
+   85  cd desktop/
+   86  git --version
+   87  git status
+   88  git clone https://github.com/varshardd94/class1.git
+   89  ls
+   90  cd ..
+   91  git clone https://github.com/varshardd94/class1.git
+   92  git clone https://github.com/varshardd94/class1.git
+   93  ls
+   94  cd c1
+   95  cd cl
+   96  cd class1/
+   97  ls
+   98  git status
+   99  git add f.txt
+  100  git add *
+  101  git status
+  102  git add f.txt
+  103  git status
+  104  git commit -m "added second line in f.txt"
+  105  git status
+  106  git push origin master
+  107  git pull origin master
+  108  cat a.txt 
+  109  cd ..
+  110  git --version
+  111  git status
+  112  git clone https://github.com/varshardd94/class3.git
+  113  ls
+  114  cd class3/
+  115  ls
+  116  git status
+  117  git add b.txt
+  118  git status
+  119  git commit -m "first commit from local machine"
+  120  git log
+  121  git push 
+  122  git push origin master
+  123  git push origin master
+  124  git pull origin master
+  125  history ..gitcommands.txt
+  126  history >>gitcommands.txt
+  127  ls
+  128  cat a.txt
+  129  git --version
+  130  git status
+  131  git clone https://github.com/varshardd94/class3.git
+  132  ls
+  133  cd class3/
+  134  ls
+  135  git status
+  136  git add c.txt
+  137  git status
+  138  git add c.txt
+  139  git status
+  140  git commit -m "first commit from local machine"
+  141  git status
+  142  git log
+  143  git push origin master
+  144  git pull origin master
+  145  cat b.txt
+  146  history >>gitcommands.txt
+  147  git --version
+  148  git status
+  149  git clone https://github.com/varshardd94/class3.git
+  150  git status
+  151  ls
+  152  cd class3/
+  153  ls
+  154  git status
+  155  git add c.txt
+  156  git status
+  157  git --version
+  158  git status
+  159  git clone https://github.com/varshardd94/class3.git
+  160  ls
+  161  cd class3/
+  162  ls
+  163  git status
+  164  git add d.txt
+  165  git status
+  166  git commit -m "first commit"
+  167  git status
+  168  git log
+  169  git push origin master
+  170  git pull origin master
+  171  history >>gitcommands.txt
+  172  git cat e.txt
+  173  cat e.txt
+  174  git --version
+  175  git status
+  176  git clone https://github.com/varshardd94/class3.git
+  177  ls
+  178  cd class3/
+  179  ls
+  180  git status
+  181  git add e.txt
+  182  git status
+  183  git commit -m
+  184  git commit -m "fir commit in local machine"
+  185  git status
+  186  git log
+  187  git push origin master
+  188  git pull origin master
+  189  ls
+  190  history >>gitcommands.txt
+  191  cat g.txt
+  192  git --version
+  193  git status
+  194  git clone https://github.com/varshardd94/class3.git
+  195  ls
+  196  cd class3/
+  197  ls
+  198  git status
+  199  git add g.txt
+  200  git status
+  201  git commit -m "fifth commit in local machine"
+  202  git status
+  203  git log
+  204  git push origin master
+  205  git pull origin master
+  206  ls
+  207  history >>gitcommands.txt
